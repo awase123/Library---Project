@@ -1,0 +1,30 @@
+/* Step 01 - Set Up The Project: */
+
+/* HTML Elements */
+#pageTitle{
+  text-decoration: underline;
+}
+
+#bookForm {
+  display: none;
+}
+
+#addBook, #clearList{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+/* JS Added Elements */
+.bookDiv{
+  margin-top: 5px;
+}
+
+.book-button{
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.read-status-button{
+  margin-left: 5px;
+  cursor: pointer;
+}
